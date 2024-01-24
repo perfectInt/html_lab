@@ -1,0 +1,29 @@
+body {
+    margin-left: 100px;
+}
+
+#logo {
+    width: 350px;
+    height: 100px;
+}
+
+a {
+
+}
+
+nav {
+
+}
+
+table, th, td {
+    border: 1px solid;
+    width: 700px;
+}
+
+table th {
+    text-align: center;
+}
+
+.instr {
+    text-align: center;
+}
